@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatOxxy</string>
+    <string name="hint_digite_aqui">Digite aqui...</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_copy">Copiar</string>
+    <string name="copied_message">Mensagem copiada!</string>
+</resources>
